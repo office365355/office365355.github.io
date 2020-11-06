@@ -1,0 +1,121 @@
+
+body {
+  background-color: #fff;
+	font-size: 12px;
+	line-height: 15px;
+}
+
+/* Main Social Login Styles */
+h2 {
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+
+hr {
+	border: 0;
+	border-top: 1px solid #ccc;
+	display: block;
+	height: 1px;
+	margin: 0 0 1em;
+	padding: 0;
+}
+
+label {
+	margin-bottom: 3px;
+	vertical-align: middle;
+}
+li {
+  line-height: 15px;
+}
+#MMLSubtext li {
+  line-height: 20px;
+}
+.alert {
+	margin-top: 2px;
+  margin-bottom: 5px;
+}
+.alert div {
+  margin-top: 3px;
+}
+.button {
+	background: #0095cd;
+	background: -ms-linear-gradient(top, #60a3d0, #3b7fac);
+	background: -webkit-gradient(linear, left top, left bottom, from(#60a3d0), to(#3b7fac));
+	background: -webkit-linear-gradient(top, #60a3d0, #3b7fac);
+	background: -moz-linear-gradient(top, #60a3d0, #3b7fac);
+	background: -o-linear-gradient(top, #60a3d0, #3b7fac);
+	background: linear-gradient(top, #60a3d0, #3b7fac);
+	color: #fff;
+	cursor: pointer;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#60a3d0', endColorstr='#3b7fac');
+	font-weight: bold;
+	width: 125px;
+	height: 37px;
+}
+.table {
+	display: table;
+}
+.cell {
+	display: table-cell;
+	padding: 10px 0;
+}
+.half {
+	width: 281px; /* half of div.box width */
+}
+.quarter {
+	width: 140px; /* quarter of div.box width */
+}
+.heading {
+	color: #666;
+}
+.notadded {
+	filter: alpha(opacity=30);
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=30);
+	-moz-opacity: 0.30;
+	opacity: 0.30;
+}
+.strong {
+	font-size: 20px;
+	font-weight: bold;
+}
+.underline {
+	border-bottom: 1px solid #bbb;
+}
+/* manage accounts */
+#manage-accts {
+	font-weight: bold;
+}
+
+.form .error a {
+  display: inline;
+	font-size: 100%;
+	font-weight: normal;
+}
+.cobrand {
+	padding-bottom: 5px;
+}
+
+.footer_notes {
+	font-size: 77%;
+	margin-top: .5em;
+	margin-bottom: 1em;
+	color: rgb(135,135,135);
+}
+.footer_notes a {
+	padding: 0;
+}
+
+.social_buttons_child {
+	display: inline-block;
+}
+
+.social_buttons_child {
+  *display: inline;
+	*margin: 5px;
+}
+
+ul, ol { margin: 0px; }
+
+div.custom_message_text {
+        word-wrap: break-word;
+}
